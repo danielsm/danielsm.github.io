@@ -39,18 +39,6 @@ body {
     -o-background-size: cover;
 }
 
-#imgperfil{
-    position:absolute;
-    left:13%;
-    margin-left:-50px;
-}
-/*
-#idioma{
-    position:absolute;
-    right:3%;
-    margin-top:83px; 
-}*/
-
 .btn{
     background-color: #D80000;
 }
