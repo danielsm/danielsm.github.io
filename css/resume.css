@@ -90,6 +90,13 @@ p.lead {
   text-transform: uppercase;
 }
 
+.lang {
+  color: #eb0d0d;
+  font-size: 10px;
+  position: relative;
+  top: 1px;
+  right: 1px;
+}
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
 }
